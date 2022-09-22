@@ -5,7 +5,7 @@
 
 
 
-[Clique aqui para acessar](klayvemguimaraes.github.io/SiteFaculdade/index/index)
+[Clique aqui para acessar](klayvemguimaraes.github.io/SiteFaculdade/index/index.html)
 
 > Projeto Faculdade
  
